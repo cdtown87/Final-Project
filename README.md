@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
+    <title>Final Project</title>
 </head>
 <body>
     <header>
-<h1>Calvin Townsend</h1>
+        <h1>Calvin</h1>
+        <nav>
             <a href = "http://www.yahoo.com">One</a>
             <a href = "http://www.google.com">Two</a>
             <a href = "http://www.example.com">Three</a>
@@ -16,10 +17,10 @@
     <section>
         <h2>Favorite Foods</h2>
         <ul>
-	    <li>Spaghetti</li>
+            <li>Spaghetti</li>
             <li>Strawberries</li>
             <li>Mangos</li>
-            <li>Cookies</li>
+            <li>Chocolate Chip Cookies</li>
         </ul>
     </section>
     <section>
@@ -36,7 +37,7 @@
     <section>
         <h2>More About Me</h2>
         <details>
-            <summary>My Childhood</summary> I grew up just outside of Chicago. My childhood consisted of playing basketball, reading, creating worlds through writing, playing video games and computer gaming.
+            <summary>My Childhood</summary>I grew up just outside of Chicago. My childhood consisted of playing basketball, reading, creating worlds through writing, playing video games and computer gaming.
         </details>
     </section>
     <footer>
