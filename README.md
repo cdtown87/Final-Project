@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Final Project</title>
+  
+  <title>Final Project</title>
+
 </head>
 <body>
     <header>
