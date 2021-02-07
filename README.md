@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Final Project</title>
-</head>
-    
+</head>    
 <body>
     <header>
         <h1>Calvin</h1>
@@ -47,8 +46,8 @@
         This page was created by Calvin &amp; Colleen van Lent.
         To learn more about web design, visit
         <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
-      <p>
     </footer>
 </body>
 
 </html>
+<p>
