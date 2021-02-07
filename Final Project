@@ -6,12 +6,12 @@
 	</head>
 	<body>
 	    <header>
-	        <h1>Calvin Townsend</h1>
+	        <h1>Calvin</h1>
 	        <nav>
-	            <a href = "">One</a>
-	            <a href = "">Two</a>
-	            <a href = "">Three</a>
-	            <a href = "">Four</a><br>
+	            <a href = "example.com">One</a>
+	            <a href = "example.com">Two</a>
+	            <a href = "example.com">Three</a>
+	            <a href = "example.com">Example</a><br>
 	    </nav>
 	    </header>
 	    <section>
