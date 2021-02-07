@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Final Project</title>
 </head>
+    
 <body>
     <header>
         <h1>Calvin</h1>
@@ -47,4 +48,5 @@
         <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
     </footer>
 </body>
+
 </html>
