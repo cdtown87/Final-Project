@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-  
+    
 </head>
 <body>
     <header>
-        <h1Calvin</h1>
-        <nav>
+<h1>Calvin Townsend</h1>
             <a href = "http://www.yahoo.com">One</a>
             <a href = "http://www.google.com">Two</a>
             <a href = "http://www.example.com">Three</a>
