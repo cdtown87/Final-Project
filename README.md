@@ -14,7 +14,7 @@
             <a href = "http://www.google.com">Two</a>
             <a href = "http://www.example.com">Three</a>
             <a href = "http://www.example.com">Example</a><br>
-    </nav>
+            </nav>
     </header>
     <section>
         <h2>Favorite Foods</h2>
@@ -47,6 +47,7 @@
         This page was created by Calvin &amp; Colleen van Lent.
         To learn more about web design, visit
         <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+      <p>
     </footer>
 </body>
 
